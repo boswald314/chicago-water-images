@@ -1,0 +1,19 @@
+Files removed as byte-identical duplicates (kept -> removed):
+REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/canals-river-reversal/1900-1929/chicago-drainage-canal-controlling-works-lockport.jpg
+  KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/canals-river-reversal/1900-1929/1898-dpc-chicago-drainage-canal-controlling-works-lockport.jpg
+REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/mwrd-pumping-stations/2000-present/north-branch-pumping-station-interior-motors-2016.jpg
+  KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/mwrd-pumping-stations/1900-1929/1928-04-09-north-branch-pumping-station-construction-b.jpg
+REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/maps-diagrams/2000-present/mwrd-seal-vector.png
+  KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/maps-diagrams/2000-present/mwrd-official-seal.png
+REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/sewer-construction/1930-1959/1949-early-november-1949-view-east-under-car-tracks-and-deck-at-roscoe-and.jpg
+  KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/sewer-construction/1930-1959/1949-early-november-1949-view-east-under-car-tracks-and-deck-at-roscoe-and-.jpg
+REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/sewer-construction/1930-1959/1949-early-november-1949-view-west-under-car-tracks-and-deck-at-roscoe-and.jpg
+  KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/sewer-construction/1930-1959/1949-early-november-1949-view-west-under-car-tracks-and-deck-at-roscoe-and-.jpg
+REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/undated/carter-harrison-crib-bunkroom-interior.jpg
+  KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/2000-present/2007-carter-harrison-crib-bunk-room.jpg
+REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/undated/dever-crib-interior-intake-pool.jpg
+  KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/2000-present/2007-carter-harrison-crib-intake-pool-panoramic.jpg
+REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/undated/carter-harrison-dever-cribs-exterior-view.jpg
+  KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/2000-present/2007-carter-harrison-crib-exterior-west.jpg
+REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/undated/carter-harrison-crib-interior-intake-pool.jpg
+  KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/2000-present/2007-carter-harrison-crib-intake-pool-view2.jpg
