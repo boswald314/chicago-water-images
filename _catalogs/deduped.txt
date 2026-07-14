@@ -17,3 +17,5 @@ REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/undated
   KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/2000-present/2007-carter-harrison-crib-exterior-west.jpg
 REMOVED /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/undated/carter-harrison-crib-interior-intake-pool.jpg
   KEPT   /Users/bryanoswald/Documents/Research/ChicagoSewers/images/cribs/2000-present/2007-carter-harrison-crib-intake-pool-view2.jpg
+
+# wave-4 dedupe:
