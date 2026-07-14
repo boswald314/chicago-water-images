@@ -1,25 +1,25 @@
 # Image index
 
-862 images (54 rights-restricted, local archive only). Organized `<subject>/<era>/`; every row records provenance.
+865 images (54 rights-restricted, local archive only). Organized `<subject>/<era>/`; every row records provenance.
 
 ## Images per subject
 
 | subject | images | description |
 |---|---|---|
-| canals-river-reversal | 105 | Canals & the river reversal |
-| cribs | 74 | Offshore intake cribs |
-| maps-diagrams | 71 | Maps & engineering diagrams |
-| mwrd-pumping-stations | 46 | MWRD sewage pumping stations |
-| purification-plants | 27 | Water purification plants |
-| sewer-construction | 117 | Sewer construction |
-| tarp-reservoirs | 39 | TARP reservoirs |
-| tarp-tunnels | 53 | TARP deep tunnels |
-| treatment-plants-calumet | 32 | Calumet WRP |
-| treatment-plants-obrien | 53 | O’Brien (North Side) WRP |
-| treatment-plants-stickney | 36 | Stickney WRP |
-| treatment-plants-suburban | 21 | Suburban treatment plants |
-| water-pumping-stations | 100 | City water pumping stations |
-| waterways-locks | 88 | Waterways, locks & controlling works |
+| canals-river-reversal | 105 | The Sanitary & Ship Canal dig and the machinery that reversed a river |
+| cribs | 74 | The offshore intake cribs, 1865–1935 — construction, keepers, and the two still in service |
+| maps-diagrams | 71 | System maps, cross-sections, and engineering diagrams across 170 years — incl. USGS topo series showing vanished Hyde Lake |
+| mwrd-pumping-stations | 46 | MWRD sewage pumping stations — incl. North Branch (Lawrence Ave) construction, 1928–30 |
+| purification-plants | 27 | Jardine and Sawyer water purification plants — construction and interiors |
+| sewer-construction | 117 | Digging the sewers: brick mains, tunnels, and WPA crews, 1850s–1960s |
+| tarp-reservoirs | 39 | Majewski, Thornton, and McCook — quarries turned into reservoirs |
+| tarp-tunnels | 53 | Boring the Deep Tunnel — TBMs, drop shafts, and 110 miles of rock tunnel |
+| treatment-plants-calumet | 32 | Calumet WRP — in service since 1922 |
+| treatment-plants-obrien | 53 | O’Brien (North Side) WRP — 1920s construction to today, incl. the 1928 “pictorial tour” plates |
+| treatment-plants-stickney | 36 | Stickney WRP — the world’s largest treatment plant, from 1927 construction on |
+| treatment-plants-suburban | 21 | Kirie, Egan, Hanover Park, Lemont — and predecessor suburban works |
+| water-pumping-stations | 100 | The city’s water pumping stations and the Water Tower era |
+| waterways-locks | 91 | Locks, controlling works, Lockport, the North Branch Dam removal, and the working waterway |
 
 ## canals-river-reversal
 
@@ -1156,6 +1156,9 @@
 | 2011-electric-fish-barrier-control-buildings-romeoville.jpg | Electric barrier control buildings viewed from a boat on the Chicago Sanitary and Ship Canal, Romeoville | 2011-10-06 | https://www.flickr.com/photos/usacechicago/6284001424/ | CC BY-NC 2.0 (USACE Chicago District) |
 | 2011-electric-fish-barrier-site-boat-approach-romeoville.jpg | Boat approaching the electric fish barrier site on the Chicago Sanitary and Ship Canal | 2011-10-06 | https://www.flickr.com/photos/usacechicago/6284003370/ | CC BY-NC 2.0 (USACE Chicago District) |
 | 2011-electric-fish-barrier-warning-sign-romeoville.jpg | Warning sign marking the entrance to the electric fish barrier field, Romeoville | 2011-10-06 | https://www.flickr.com/photos/usacechicago/6284059074/ | CC BY-NC 2.0 (USACE Chicago District) |
+| 2015-north-branch-dam-river-park-intact-waterfall.jpg | The intact North Branch Dam at the south end of the North Shore Channel, where the channel met the natural North Branch of the Chicago River — the four-foot drop that made this Chicago's only "waterfall"; view looking northwest, across the river from River Park, before the dam's 2018 removal | 2015-05-23 | https://commons.wikimedia.org/wiki/File:North-Branch-of-the-Chicago-River-01.JPG | CC BY-SA 4.0 |
+| 2018-07-31-north-branch-dam-removal-ceremony-crowd.jpg | Public ceremony marking the start of North Branch Dam removal at River Park, with an American flag, presentation boards, and press/public onlookers on a riverside footbridge — the culmination of Friends of the Chicago River's 18-year removal campaign | 2018-07-31 | https://www.flickr.com/photos/usacechicago/43088305504/ | CC BY-NC 2.0 (USACE Chicago District) |
+| 2018-07-31-north-branch-dam-removal-excavator-demolition.jpg | An excavator demolishes the North Branch Dam at River Park as press photographers document the work from the riverbank; the dam's concrete wing walls and the water dropping through the breach are visible mid-demolition | 2018-07-31 | https://www.flickr.com/photos/usacechicago/43088313674/ | CC BY-NC 2.0 (USACE Chicago District) |
 | 2020-lockport-powerhouse.jpg | Lockport Powerhouse — waterway lock structure and hydroelectric powerhouse on the Sanitary and Ship Canal | July 23, 2020 | https://mwrd.org/what-we-do/history-protecting-our-water-environment | MWRD (public agency); official photo |
 | 2021-cssc-electric-fish-barrier-control-panels-walkway.jpg | USACE Chicago District Commander COL Paul Culberson hosts ASA-CW Michael Connor and USACE DCG MG Graham touring the electric dispersal barrier facility on the Chicago Sanitary and Ship Canal; staff walk past control-panel cabinets along the canal walkway | December 16, 2021 | https://www.dvidshub.net/image/6984992/cssc-dispersal-barrier | Public domain (DVIDS/U.S. Army) |
 | 2021-cssc-electric-fish-barrier-equipment-room-interior.jpg | Interior of the CSSC electric dispersal barrier equipment building; staff examine an electrode control cabinet during the tour | December 16, 2021 | https://www.dvidshub.net/image/6984993/cssc-dispersal-barrier | Public domain (DVIDS/U.S. Army) |
