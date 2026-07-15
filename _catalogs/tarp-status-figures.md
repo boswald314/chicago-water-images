@@ -1,0 +1,6 @@
+| filename | subject/era | caption | image date | source page URL | direct URL | rights |
+|---|---|---|---|---|---|---|
+| 2025-tarp-status-report-figure-1.png | maps-diagrams/2000-present | TARP Project Status system map (Figure 1): completed tunnels, WRPs, pumping stations, reservoirs | 2025-12-13 | https://mwrd.org/sites/default/files/2026-01/TARP_Status_%20Report_12-31-2025.pdf | (rendered p.4) | MWRD (public agency) |
+| 2025-tarp-status-report-figure-2.png | maps-diagrams/2000-present | TARP Mainstream & Des Plaines systems detail map (Figure 2) with contract callouts incl. 73-060-2H North Branch leg | 2025-12-13 | https://mwrd.org/sites/default/files/2026-01/TARP_Status_%20Report_12-31-2025.pdf | (rendered p.5) | MWRD (public agency) |
+| 2025-tarp-status-report-figure-3.png | maps-diagrams/2000-present | TARP Calumet system detail map (Figure 3) — Torrence Ave & Little Calumet legs | 2025-12-13 | https://mwrd.org/sites/default/files/2026-01/TARP_Status_%20Report_12-31-2025.pdf | (rendered p.6) | MWRD (public agency) |
+| 2025-tarp-status-report-figure-4.png | maps-diagrams/2000-present | TARP Upper Des Plaines system detail map (Figure 4) | 2025-12-13 | https://mwrd.org/sites/default/files/2026-01/TARP_Status_%20Report_12-31-2025.pdf | (rendered p.7) | MWRD (public agency) |

@@ -1,25 +1,25 @@
 # Image index
 
-865 images (54 rights-restricted, local archive only). Organized `<subject>/<era>/`; every row records provenance.
+873 images (58 rights-restricted, local archive only). Organized `<subject>/<era>/`.
 
 ## Images per subject
 
-| subject | images | description |
-|---|---|---|
-| canals-river-reversal | 105 | The Sanitary & Ship Canal dig and the machinery that reversed a river |
-| cribs | 74 | The offshore intake cribs, 1865–1935 — construction, keepers, and the two still in service |
-| maps-diagrams | 71 | System maps, cross-sections, and engineering diagrams across 170 years — incl. USGS topo series showing vanished Hyde Lake |
-| mwrd-pumping-stations | 46 | MWRD sewage pumping stations — incl. North Branch (Lawrence Ave) construction, 1928–30 |
-| purification-plants | 27 | Jardine and Sawyer water purification plants — construction and interiors |
-| sewer-construction | 117 | Digging the sewers: brick mains, tunnels, and WPA crews, 1850s–1960s |
-| tarp-reservoirs | 39 | Majewski, Thornton, and McCook — quarries turned into reservoirs |
-| tarp-tunnels | 53 | Boring the Deep Tunnel — TBMs, drop shafts, and 110 miles of rock tunnel |
-| treatment-plants-calumet | 32 | Calumet WRP — in service since 1922 |
-| treatment-plants-obrien | 53 | O’Brien (North Side) WRP — 1920s construction to today, incl. the 1928 “pictorial tour” plates |
-| treatment-plants-stickney | 36 | Stickney WRP — the world’s largest treatment plant, from 1927 construction on |
-| treatment-plants-suburban | 21 | Kirie, Egan, Hanover Park, Lemont — and predecessor suburban works |
-| water-pumping-stations | 100 | The city’s water pumping stations and the Water Tower era |
-| waterways-locks | 91 | Locks, controlling works, Lockport, the North Branch Dam removal, and the working waterway |
+| subject | images |
+|---|---|
+| canals-river-reversal | 105 |
+| cribs | 74 |
+| maps-diagrams | 75 |
+| mwrd-pumping-stations | 50 |
+| purification-plants | 27 |
+| sewer-construction | 117 |
+| tarp-reservoirs | 39 |
+| tarp-tunnels | 53 |
+| treatment-plants-calumet | 32 |
+| treatment-plants-obrien | 53 |
+| treatment-plants-stickney | 36 |
+| treatment-plants-suburban | 21 |
+| water-pumping-stations | 100 |
+| waterways-locks | 91 |
 
 ## canals-river-reversal
 
@@ -349,6 +349,10 @@
 | 2024-tarp-mainstream-des-plaines-system-map-figure2-mwrd.jpg | "TARP - Mainstream and Des Plaines Systems" (Figure 2) — detailed engineering map of the tunnel route through the North Side, Cicero, and near-west suburbs with numbered construction contract locations | June 30, 2024 status report | https://mwrd.org/sites/default/files/2024-10/Tarp_Status_Report_2024.pdf | MWRD (public agency); official map, rendered from PDF status report |
 | 2024-tarp-project-status-map-figure1-mwrd.jpg | "Tunnel and Reservoir Plan Project Status" (Figure 1) — color system map of all four TARP tunnel systems (Mainstream, Calumet, O'Hare, Des Plaines) and the McCook, Thornton, and Majewski reservoirs with cost/mileage/capacity tables | map dated 6.4.2024, from TARP Status Report as of June 30, 2024 | https://mwrd.org/sites/default/files/2024-10/Tarp_Status_Report_2024.pdf | MWRD (public agency); official map, rendered from PDF status report |
 | 2024-tarp-upper-des-plaines-ohare-system-map-figure3-mwrd.jpg | "TARP - Upper Des Plaines (O'Hare) System" (Figure 3) — detailed engineering map of the O'Hare-area tunnel system serving Kirie WRP and the Gloria Alitto Majewski Reservoir | June 30, 2024 status report | https://mwrd.org/sites/default/files/2024-10/Tarp_Status_Report_2024.pdf | MWRD (public agency); official map, rendered from PDF status report |
+| 2025-tarp-status-report-figure-1.png | TARP Project Status system map (Figure 1): completed tunnels, WRPs, pumping stations, reservoirs | 2025-12-13 | https://mwrd.org/sites/default/files/2026-01/TARP_Status_%20Report_12-31-2025.pdf | MWRD (public agency) |
+| 2025-tarp-status-report-figure-2.png | TARP Mainstream & Des Plaines systems detail map (Figure 2) with contract callouts incl. 73-060-2H North Branch leg | 2025-12-13 | https://mwrd.org/sites/default/files/2026-01/TARP_Status_%20Report_12-31-2025.pdf | MWRD (public agency) |
+| 2025-tarp-status-report-figure-3.png | TARP Calumet system detail map (Figure 3) — Torrence Ave & Little Calumet legs | 2025-12-13 | https://mwrd.org/sites/default/files/2026-01/TARP_Status_%20Report_12-31-2025.pdf | MWRD (public agency) |
+| 2025-tarp-status-report-figure-4.png | TARP Upper Des Plaines system detail map (Figure 4) | 2025-12-13 | https://mwrd.org/sites/default/files/2026-01/TARP_Status_%20Report_12-31-2025.pdf | MWRD (public agency) |
 | mwrd-official-seal.png | Seal of the Metropolitan Water Reclamation District of Greater Chicago | undated (current official seal) | https://commons.wikimedia.org/wiki/File:Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg | Wikimedia Commons; likely public domain/insignia of public agency, verify on file page |
 | mwrd-seal-photo.jpg | Seal of the Metropolitan Water Reclamation District of Greater Chicago (photographed rendition) | 2011-08-18 | https://commons.wikimedia.org/wiki/File:Seal_MWRD_Chicago.JPG | GFDL 1.2+ / CC BY-SA 3.0 (dual-licensed) |
 | thornton-connecting-tunnel-gate-structure-engineering-drawing.jpg | Engineering elevation, section, and end-view drawings of the Thornton connecting tunnel gate structure (plan/profile CAD rendering) | undated (KMI project portfolio; tunnel/dam completed ca. 2015-2016) | https://www.kmichicago.com/project-list/thornton-composite-reservoir-tunnel-connecting-gates-and-bifurcation/ | KMI Architects & Engineers (project engineer of record); project portfolio images; editorial/research use, verify redistribution terms before publication |
@@ -407,7 +411,11 @@
 | 2005-canoers-lawrence-avenue-pumping-station.jpg | Canoers on the North Branch of the Chicago River near the pumping station | 2005 | https://industrialscenery.blogspot.com/2016/07/mwrds-north-branch-pumping-station.html | Source per industrialscenery.blogspot.com; see blog post for full attribution |
 | 2010-bubbly-creek-headwaters-racine-avenue-pump-station.jpg | Bubbly Creek headwaters near Racine Avenue Pump Station (USGS Illinois Water Science Center) | Uploaded 2010-03-22 | https://commons.wikimedia.org/wiki/File:Bubbly_Creek_headwaters-Racine_Avenue_Pump_Station_JPG.jpg | Public domain (USGS) |
 | 2014-mainstream-pumping-station-entrance-river-road.jpg | Entrance gate and sign at the Metropolitan Water Reclamation District of Greater Chicago's Mainstream Pumping Station, 6100 River Road, Hodgkins, IL. | May 21, 2014 | http://industrialscenery.blogspot.com/2017/01/mwrd-calumet-tarp-pumping-station.html | Credit: photo by blog author (Industrial Scenery / Dennis DeBruler), personal site visit |
+| 2014-north-branch-pumping-station-exterior-facade.jpg | NBPS Art Deco brick facade with carved "North Branch Pumping Station" lettering, from the park side | 2014 | http://chicagopatterns.com/north-branch-pumping-station/ | © Stephanie Barto / Chicago Patterns 2014, all rights reserved — research/editorial use |
 | 2014-north-branch-pumping-station-exterior-lawrence-kimball.jpg | Pumping station along Lawrence Avenue near Kimball, constructed 1929 | 2014-04-16 | https://www.flickr.com/photos/balinesecat/13883642252 | All rights reserved (Flickr) — research/educational use only, not for republication |
+| 2014-north-branch-pumping-station-pump-gallery-interior.jpg | NBPS interior — two-story pump gallery with overhead crane, glass-block clerestory, and pump/motor sets below | 2014 | http://chicagopatterns.com/north-branch-pumping-station/ | © Stephanie Barto / Chicago Patterns 2014, all rights reserved — research/editorial use |
+| 2014-north-branch-pumping-station-pump-hall-motors.jpg | NBPS pump hall interior — row of horizontal centrifugal storm pumps with red-and-white synchronous motor rotors | 2014 | http://chicagopatterns.com/north-branch-pumping-station/ | © Stephanie Barto / Chicago Patterns 2014, all rights reserved — research/editorial use |
+| 2014-north-branch-pumping-station-riverside-arched-outfalls.jpg | NBPS riverside face — cantilevered deck and arched storm-discharge outfalls over the North Branch | 2014 | http://chicagopatterns.com/north-branch-pumping-station/ | © Stephanie Barto / Chicago Patterns 2014, all rights reserved — research/editorial use |
 | 2016-north-branch-pumping-station-exterior.jpg | Present-day exterior photo of MWRD's North Branch Pumping Station | circa 2016 or later (unconfirmed) | https://industrialscenery.blogspot.com/2016/07/mwrds-north-branch-pumping-station.html | Blog-sourced personal photography; rights undetermined, research use, verify before publication |
 | 2023-mainstream-pumping-station-pump-room-hodgkins.jpg | MSPS (Mainstream Pumping Station) Pump Room, Hodgkins | contemporary (2023) | https://mwrd.org/locations/tarp-mainstream-pumping-station | MWRD (public agency); research/educational use |
 | 2023-north-branch-pumping-station-exterior-riverside.jpg | Art Deco pumping station exterior, riverside; pumps sewage from Chicago's north side under the river to O'Brien WRP | 2023-07-22 | https://www.flickr.com/photos/highlyecumenical/53064593325 | CC BY 2.0 |
